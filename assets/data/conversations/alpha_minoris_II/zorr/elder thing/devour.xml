@@ -56,7 +56,7 @@
 			sack, caustic fluids soaking your flesh as you attempt a misguidedly
 			futile effort at escaping the eldritch deity even now.
 		</text>
-		<page ID="oralvoreGO" text="doomed" />
+		<page destination="oralvoreGO" text="doomed" />
 	</page>
 
 	<gameover ID="oralvoreGO" noReform="true">
